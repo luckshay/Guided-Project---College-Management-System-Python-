@@ -1,0 +1,16 @@
+{
+ "Stu_Course": [
+  {
+   "Rollno": "1001",
+   "CourseID": "CS104"
+  },
+  {
+   "Rollno": "1002",
+   "CourseID": "CS160"
+  },
+  {
+   "Rollno": "",
+   "CourseID": "CS140"
+  }
+ ]
+}
