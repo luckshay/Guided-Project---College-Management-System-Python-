@@ -1,4 +1,4 @@
-# Project---College-Management-System-Python-
+# Guided-Project---College-Management-System-Python-
 
 This was a guided project for first semester in my college demonstrating the use of Tkinter in Python language.
 Non-relational database (JSON) was integrated to store data.
